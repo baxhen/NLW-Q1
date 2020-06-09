@@ -18,9 +18,24 @@
 
 <br>
 
+## Web
+
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src=".github/web_home.png" width="100%">
+  <img alt="Ecoleta" src=".github/web_point01.png" width="100%">
+  <img alt="Ecoleta" src=".github/web_point02.png" width="100%">
+  <img alt="Ecoleta" src=".github/web_point03.png" width="100%">
 </p>
+
+## Mobile
+
+<div class="col-xs-12 col-sm-6" align="center">
+  <img alt="Ecoleta" src=".github/home_page.jpeg" width="25%" height="25%">
+  <img alt="Ecoleta" src=".github/point_page01.jpeg" width="25%" height="25%">
+  <img alt="Ecoleta" src=".github/point_page02.jpeg" width="25%" height="25%">
+  <img alt="Ecoleta" src=".github/point_page03.jpeg" width="25%" height="25%">
+  <img alt="Ecoleta" src=".github/detail_page.jpeg" width="25%" height="25%">
+</div>
 
 ## 🚀 Tecnologias
 
